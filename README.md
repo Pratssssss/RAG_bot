@@ -8,6 +8,7 @@ This version is designed for low-disk-space Windows laptops: it uses only Python
 
 - Python 3.11 or 3.12
 - Ollama for local answer generation
+- Streamlit 1.39.0 for the optional web UI
 - Local hashing-vector embeddings implemented in `ragbot/embeddings.py`
 - JSON vector store persisted in `vector_db/store.json`
 - Standard-library document parsing for TXT, MD, and simple text-layer PDF files
@@ -16,6 +17,7 @@ This version is designed for low-disk-space Windows laptops: it uses only Python
 
 - `index.py`: loads documents, chunks them, embeds chunks in batches, and writes the vector store
 - `chat.py`: interactive command-line Q&A bot
+- `app.py`: Streamlit web interface
 - `ragbot/`: RAG pipeline code
 - `data/`: sample document collection with 5 documents, including one PDF
 - `.env.example`: environment variable template
@@ -28,6 +30,7 @@ Open PowerShell or Command Prompt and run:
 cd C:\Users\Admin\.conda\Desktop\RAG-bot
 py -3.11 -m venv .venv
 .\.venv\Scripts\python.exe --version
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
 copy .env.example .env
 ```
 
@@ -70,6 +73,12 @@ Start the chatbot:
 
 Type `exit` to quit.
 
+Start the Streamlit UI:
+
+```powershell
+.\.venv\Scripts\streamlit.exe run app.py
+```
+
 ## Architecture Overview
 
 1. Document ingestion scans `data/` for `.txt`, `.md`, and `.pdf` files.
@@ -78,7 +87,7 @@ Type `exit` to quit.
 4. Embeddings and metadata are persisted to `vector_db/store.json`.
 5. A user question is embedded and compared with stored vectors using cosine similarity.
 6. The top-k chunks are passed to Ollama with a grounding prompt.
-7. The answer and source chunks are displayed in the terminal.
+7. The answer and source chunks are displayed in the terminal or Streamlit UI.
 
 ## Chunking Strategy
 
@@ -107,7 +116,7 @@ For the 3 to 8 minute demo:
 
 1. Show the folder structure.
 2. Run `.\.venv\Scripts\python.exe index.py --reset`.
-3. Run `.\.venv\Scripts\python.exe chat.py --top-k 2`.
+3. Run `.\.venv\Scripts\python.exe chat.py --top-k 2` or `.\.venv\Scripts\streamlit.exe run app.py`.
 4. Ask at least five questions across at least two documents.
 5. Show the retrieved source chunks and citations.
 6. Ask one unsupported question.
