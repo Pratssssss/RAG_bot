@@ -1,0 +1,17 @@
+Climate Resilient Cities: Planning Notes
+
+Climate resilience is the ability of a city to keep people safe, maintain essential services, and recover quickly during climate-related stress. The most visible threats are heat waves, floods, storms, drought, wildfire smoke, and coastal inundation. The deeper challenge is that these hazards interact with housing, transportation, health, energy, and social inequality.
+
+Heat is often the deadliest climate hazard because it affects the body directly and can last for several days. Cities can reduce heat risk through tree planting, cool roofs, reflective pavement, shaded bus stops, public cooling centers, and emergency outreach to people who live alone. Tree canopy programs work best when they prioritize hot neighborhoods that historically received less public investment.
+
+Flood resilience begins with understanding where water naturally wants to go. Traditional stormwater systems move rain away quickly, but extreme rainfall can overwhelm pipes. Green infrastructure slows, stores, and filters water through rain gardens, bioswales, permeable pavement, wetlands, and restored streams. A strong plan combines engineered defenses with nature-based solutions and clear land-use rules.
+
+Housing policy is climate policy. Poorly insulated homes increase energy demand during heat waves and leave residents vulnerable during outages. Basement apartments in flood-prone areas can become dangerous when storms arrive quickly. Cities should combine weatherization grants, tenant protections, building code updates, and relocation support where risk cannot be reduced.
+
+Transportation systems need redundancy. During a storm, one blocked road or flooded rail tunnel can cut off access to hospitals, jobs, and shelters. Resilient transportation planning identifies critical routes, elevates or drains vulnerable assets, keeps emergency lanes clear, and supports walking, cycling, and transit options that still function when fuel is scarce.
+
+Energy resilience is becoming more local. Solar panels, batteries, microgrids, and demand response can keep essential facilities running when the wider grid is stressed. Libraries, schools, and community centers can serve as resilience hubs if they have backup power, clean air filtration, water, communications, and trained staff.
+
+Good climate planning is participatory. Residents know which intersections flood, which apartments overheat, which bus stops lack shade, and which neighbors may need help. Cities should use surveys, paid community ambassadors, multilingual workshops, and partnerships with trusted local groups.
+
+Metrics keep resilience plans honest. Cities should track heat-related illness, flood losses, tree canopy by neighborhood, emergency response times, energy outage duration, household energy burden, and completion of capital projects. A plan that is not tied to budgets, timelines, and responsible departments is only an aspiration.

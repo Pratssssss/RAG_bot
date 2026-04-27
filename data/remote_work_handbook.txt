@@ -1,0 +1,19 @@
+Remote Work Handbook for Distributed Teams
+
+Remote work succeeds when a team designs its operating system intentionally. Simply moving office habits into video calls creates fatigue and confusion. A strong distributed team clarifies communication norms, decision rights, documentation expectations, meeting discipline, security practices, and rituals for trust.
+
+Asynchronous communication should be the default for most updates. Written updates give people time to think, reduce timezone pressure, and create a searchable history. Good async updates include context, the decision needed, the deadline, and the owner. Teams should agree which channels are urgent, which are informational, and which are official records.
+
+Meetings still matter, but they should earn their place on the calendar. A useful meeting has a purpose that cannot be achieved as well in writing: resolving ambiguity, making a decision, building shared understanding, or strengthening relationships. Every recurring meeting should have an owner, agenda, expected preparation, and criteria for cancellation.
+
+Documentation is the backbone of remote execution. Product specs, architecture decisions, onboarding guides, project plans, and postmortems should be written for future readers, not only for people already in the conversation. A decision record should explain the context, options considered, final choice, consequences, and date.
+
+Managers in remote teams need to manage outcomes rather than activity signals. Online status lights, instant replies, and full calendars are weak measures of contribution. Better indicators include shipped work, quality of decisions, customer impact, collaboration, and learning.
+
+Onboarding requires extra care because new employees cannot absorb context by overhearing hallway conversations. A good remote onboarding plan includes a first-week schedule, access checklist, glossary, starter tasks, buddy system, product walkthroughs, and a map of important documents.
+
+Security practices must fit remote reality. Teams should use password managers, multi-factor authentication, device encryption, least-privilege access, secure Wi-Fi guidance, and clear rules for handling customer data. Incident reporting should be simple and blameless so people report mistakes quickly.
+
+Culture is built through repeated behavior. Remote teams can create belonging through demos, informal social time, recognition, mentoring, and occasional in-person gatherings when possible. Leaders set the standard by documenting decisions, respecting focus time, and making important information visible.
+
+The biggest risk in remote work is not distance itself; it is ambiguity. When teams know how to communicate, decide, document, and support each other, remote work can create deep focus and access to a broader talent pool.
