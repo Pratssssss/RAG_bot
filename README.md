@@ -110,7 +110,6 @@ The vector database is a local JSON vector store. It persists embeddings, text, 
 - What should public health teams do during emergencies?
 - What does the collection say about medieval shipbuilding? This should be answered as unsupported by the documents.
 
-## Screen Recording Checklist
 
 For setting up this project:
 
