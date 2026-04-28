@@ -112,15 +112,10 @@ The vector database is a local JSON vector store. It persists embeddings, text, 
 
 ## Screen Recording Checklist
 
-For the 3 to 8 minute demo:
+For setting up this project:
 
-1. Show the folder structure.
-2. Run `.\.venv\Scripts\python.exe index.py --reset`.
-3. Run `.\.venv\Scripts\python.exe chat.py --top-k 2` or `.\.venv\Scripts\streamlit.exe run app.py`.
-4. Ask at least five questions across at least two documents.
-5. Show the retrieved source chunks and citations.
-6. Ask one unsupported question.
-7. Explain the lightweight hashing embeddings and local JSON vector store choice.
+1. Run `.\.venv\Scripts\python.exe index.py --reset`.
+2. Run `.\.venv\Scripts\python.exe chat.py --top-k 2` or `.\.venv\Scripts\streamlit.exe run app.py`.
 
 ## Known Limitations
 
